@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Learning+AI+and+Machine+Learning;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
-![snake gif](https://github.com/ashutoshiru/snake-animation/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshiru&theme=tokyonight" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=ashutoshiru&theme=tokyonight" />
+</p>>
 
 
 
@@ -28,6 +28,7 @@
 - 🐍 **Snake Game**  
   HTML, CSS, JavaScript  
   👉 https://github.com/ashutoshiru/Snake-Game
+  ![snake gif](https://github.com/ashutoshiru/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
