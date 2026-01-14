@@ -3,11 +3,31 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Learning+AI+and+Machine+Learning;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
+
+![snake gif](https://github.com/ashutoshiru/snake-animation/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshiru&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshiru&theme=tokyonight" />
+</p>
+
+
+
 ## 🚀 Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
 </p>
+
+## 🎮 Featured Projects
+
+- 🐍 **Snake Game**  
+  HTML, CSS, JavaScript  
+  👉 https://github.com/ashutoshiru/Snake-Game
 
 
 ---
