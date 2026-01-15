@@ -39,7 +39,7 @@ Passionate about **clean code, performance, and real-world problem solving**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutoshiru&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshiru&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
