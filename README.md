@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Learning+AI+and+Machine+Learning;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<p align="center"><i>
-"Full Stack MERN Developer building today & learning AI to shape tomorrow."
-</i></p>
 
 ## 👨‍💻 About Me
 
@@ -54,6 +51,13 @@
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at: **ashutoshiruu@gmail.com**
 
+---
+
+<p align="center"><i>
+"Full Stack MERN Developer building today & learning AI to shape tomorrow."
+</i></p>
+
+---
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ashutoshiru&label=Profile%20Views&color=grey" />
