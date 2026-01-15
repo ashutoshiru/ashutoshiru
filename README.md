@@ -22,12 +22,12 @@ Passionate about **clean code, performance, and real-world problem solving**.
 ### 🛠 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL
-- **Tools:** Git, GitHub, Postman  
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Postman, Vs Code, IntelliJ IDEA
 - **Currently Learning:** AI & Machine Learning  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,idea" />
 </p>
 
 ---
