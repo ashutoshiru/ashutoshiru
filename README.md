@@ -8,6 +8,22 @@
 "Full Stack MERN Developer building today & learning AI to shape tomorrow."
 </i></p>
 
+## 👨‍💻 About Me
+
+- 💻 Full Stack **MERN Developer**
+- 🤖 Currently learning **AI & Machine Learning**
+- 🎮 Built interactive web projects (Snake Game with music & score)
+- 🌱 Focused on clean code & real-world applications
+- 📫 Email: **ashutoshiruu@gmail.com**
+
+
+## 🚀 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
+</p>
+
+
 
 ## 📊 GitHub Stats
 
@@ -23,13 +39,6 @@
 
 
 
-
-## 🚀 Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
-</p>
-
 ## 🎮 Featured Projects
 
 - 🐍 **Snake Game**  
@@ -44,6 +53,12 @@
 - 🌱 Learning **AI / Machine Learning**
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at: **ashutoshiruu@gmail.com**
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ashutoshiru&label=Profile%20Views&color=grey" />
+</p>
+
 
 
 
