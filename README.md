@@ -69,15 +69,17 @@ Passionate about **clean code, performance, and real-world problem solving**.
 
 ---
 
-<p align="center"><i>
-"Full Stack MERN Developer building today & learning AI to shape tomorrow."
-</i></p>
 
----
 
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/ashutoshiru/snake-animation/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+<p align="center"><i>
+"Full Stack MERN Developer building today & learning AI to shape tomorrow."
+</i></p>
 
 ---
 
