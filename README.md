@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Learning+AI+and+Machine+Learning;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
-
+<p align="center"><i>
+"Full Stack MERN Developer building today & learning AI to shape tomorrow."
+</i></p>
 
 
 ## 📊 GitHub Stats
