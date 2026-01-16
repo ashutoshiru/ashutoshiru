@@ -46,25 +46,66 @@ Passionate about **clean code, performance, and real-world problem solving**.
 
 ## 🎮 Featured Projects
 
-- 🫧 **Bubble Hit Game**  
-  Fast-paced number matching game with timer & score system  
-  **Tech:** HTML, CSS, JavaScript  
-  ▶️ Live Demo: https://ashutoshiru.github.io/Bobble-Game/  
-  🔗 Repo: https://github.com/ashutoshiru/Bobble-Game
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🐍 **Snake Game**  
-  Interactive browser-based game with sound, score & high score system  
-  **Tech:** HTML, CSS, JavaScript  
-  🔗 https://github.com/ashutoshiru/Snake-Game  
+### 🫧 Bubble Hit Game
+<p>
+Fast-paced number matching game with timer & scoring system.
+</p>
 
-- 🔐 **MERN Auth App**  
-  JWT Authentication, Role-based access control  
+🛠 **Tech Used**  
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-- 🛒 **E-commerce Website**  
-  Cart, Payments, Admin Dashboard  
+🔗 **Links**  
+▶️ <a href="https://ashutoshiru.github.io/Bobble-Game/">Live Demo</a><br>
+📁 <a href="https://github.com/ashutoshiru/Bobble-Game">Repository</a>
 
-- 🤖 **AI-powered MERN App (Coming Soon)**  
-  Machine Learning integration with MERN stack  
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 Snake Game
+<p>
+Classic snake game with sound effects, score & high-score system.
+</p>
+
+🛠 **Tech Used**  
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+🔗 **Links**  
+📁 <a href="https://github.com/ashutoshiru/Snake-Game">Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 MERN Auth App
+<p>
+Authentication system with JWT & role-based access control.
+</p>
+
+🛠 **Tech Used**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Website
+<p>
+Complete e-commerce solution with cart, payments & admin dashboard.
+</p>
+
+🛠 **Tech Used**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+
+</td>
+</tr>
+</table>
 
 ---
 
