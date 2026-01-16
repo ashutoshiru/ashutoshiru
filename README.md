@@ -74,7 +74,8 @@ Classic snake game with sound effects, score & high-score system.
 🛠 **Tech Used**  
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-🔗 **Links**  
+🔗 **Links**
+▶️ <a href="https://ashutoshiru.github.io/Snake-Game/">Live Demo</a><br>
 📁 <a href="https://github.com/ashutoshiru/Snake-Game">Repository</a>
 
 </td>
