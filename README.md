@@ -46,6 +46,12 @@ Passionate about **clean code, performance, and real-world problem solving**.
 
 ## 🎮 Featured Projects
 
+- 🫧 **Bubble Hit Game**  
+  Fast-paced number matching game with timer & score system  
+  **Tech:** HTML, CSS, JavaScript  
+  ▶️ Live Demo: https://ashutoshiru.github.io/Bobble-Game/  
+  🔗 Repo: https://github.com/ashutoshiru/Bobble-Game
+
 - 🐍 **Snake Game**  
   Interactive browser-based game with sound, score & high score system  
   **Tech:** HTML, CSS, JavaScript  
