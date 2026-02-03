@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Learning+AI+and+Machine+Learning;Building+Real-World+Web+Applications&center=true&width=600&height=50">
-</p>
+</p> 
 
 ---
 
