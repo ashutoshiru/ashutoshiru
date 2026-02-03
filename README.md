@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 Full Stack MERN Developer focused on building scalable, user-friendly web applications.  
 Currently learning **AI & Machine Learning** to integrate intelligence into modern web products.  
